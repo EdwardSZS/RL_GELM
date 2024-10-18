@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "racing_car"
+version = "0.1.0"
+description = "A brief description of your project"
+authors = [{name = "Your Name", email = "youremail@example.com"}]
+license = "ECI"
+
+requires-python = "3.11"
+
+
+[tool.poetry.dev-dependencies]
+# Add development dependencies if needed
