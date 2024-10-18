@@ -5,7 +5,7 @@ attrs==24.2.0
 AutoROM==0.6.1
 AutoROM.accept-rom-license==0.6.1
 blinker==1.8.2
-box2d-py==2.3.5
+box2d-py @ https://files.pythonhosted.org/packages/.../box2d_py-2.3.10-cp311-cp311-manylinux_2_28_x86_64.whls
 cachetools==5.5.0
 certifi==2024.8.30
 charset-normalizer==3.4.0
